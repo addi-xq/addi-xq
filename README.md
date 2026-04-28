@@ -1,4 +1,4 @@
-# Adeline Tushabe — Unity & C# Developer
+# Unity & C# Developer
 
 5+ years building and shipping mobile games across iOS, Android, WebGL, and VR.
 
