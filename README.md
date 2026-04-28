@@ -1,16 +1,21 @@
-## Hi there 👋
+# Adeline Tushabe — Unity & C# Developer
 
-<!--
-**addi-xq/addi-xq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+5+ years building and shipping mobile games across iOS, Android, WebGL, and VR.
 
-Here are some ideas to get you started:
+## Currently
+- Building **HealersStrategy** at VientoVerse — a real-time 2D strategy game with modular entity-component architecture, Utility GOAP AI, and custom combat systems
+- Open to worldwide remote opportunities
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Shipped
+- **eQuoo** — live narrative mobile game on iOS, Android & WebGL (PsycApps, 2021–2025)
+  - 40% app size reduction, ~80% load time improvement
+  - Full lifecycle ownership: architecture, live ops, SDK integration, performance
+
+## Projects
+- **StackSurge** — hyper-casual match puzzle built in Unity 6 with custom shaders (HLSL/ShaderLab), ScriptableObject-driven settings, and New Input System
+
+## Skills
+`Unity` `C#` `Mobile (iOS/Android)` `Live Ops` `Firebase` `Unity IAP` `Addressables` `GOAP AI` `Git` `VR/XR`
+
+## Contact
+adelinetush@gmail.com
